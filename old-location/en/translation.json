@@ -1,0 +1,8 @@
+{
+  "test": {
+    "string1": "Test string 1",
+    "string2": "Test string 2",
+    "string3": "Test string 3",
+    "string4": "Test string 4"
+  }
+}
