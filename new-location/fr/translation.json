@@ -1,5 +1,6 @@
 {
-  "test": {
-    "string1": "French translation of string 1"
-  }
+    "test": {
+        "string1": "French translation of string 1",
+        "string2": "Suggestion for french string 2"
+    }
 }
